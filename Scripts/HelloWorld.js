@@ -1,3 +1,4 @@
+//This script ask you to enter your name on a keyboard and then print Hello + name or if no name entered Hello World is printed
 let keyboard = require("keyboard");
 
 keyboard.setHeader("Enter you name");
