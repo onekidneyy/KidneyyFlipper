@@ -1,0 +1,5 @@
+Things I want to bild with the FLipper Zero
+-To Do List
+-Random Number Generator
+-Temerature Converter
+-Solana Wallet
