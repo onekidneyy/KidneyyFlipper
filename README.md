@@ -5,9 +5,12 @@ For best experience I recommend reading the README for each folder so you now wh
 
 ## Overview Of The Open Source Apps
 
-* Skeleton App [Skeleton]
-Skeleton a base setup to create apps from the flipper that has three menus a Config, Play, and About.
+* Skeleton App
+
+Skeleton folder holds a base setup to create apps from the flipper that has three menus a Config, Play, and About.
 
 ## Overview Of The Scripts
 
-* Hello World [HelloWorld.js]
+* Hello World
+* Random Number 1-100
+* Temperature Converter (WIP)
