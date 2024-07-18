@@ -10,4 +10,4 @@ To download your firmware go to its respected github repo and copy the HTTPS and
 
 * Skeleton App
 
-Skeleton folder holds a base setup to create apps from the flipper that has three menus a Config, Play, and About.
+Skeleton folder holds a base setup to create apps for the Flipper Zero that has three menus a Config, Play, and About.

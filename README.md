@@ -7,7 +7,7 @@ For best experience I recommend reading the README for each folder so you now wh
 
 * Skeleton App
 
-Skeleton folder holds a base setup to create apps from the flipper that has three menus a Config, Play, and About.
+Skeleton folder holds a base setup to create apps for the Flipper Zero that has three menus a Config, Play, and About.
 
 ## Overview Of The Scripts
 
