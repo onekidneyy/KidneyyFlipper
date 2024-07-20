@@ -4,7 +4,7 @@ These are the exported files from Open Source Apps folder these can be manually 
 
 ## Overview Of The Open Source Apps
 
-* Sample App (Coming soon)
+* Sample App
 
 Sample folder holds a base setup to create apps for the Flipper Zero that has three menus a Config, Play, and About.
 Place in your "SDCard/apps/Tools" folder.

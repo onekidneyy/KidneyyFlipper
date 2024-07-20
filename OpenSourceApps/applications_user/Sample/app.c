@@ -7,7 +7,6 @@
 #include <gui/modules/widget.h>
 #include <notification/notification.h>
 #include <notification/notification_messages.h>
-#include "Solana_app_icons.h"
 
 #define TAG "Skeleton"
 
@@ -86,7 +85,7 @@ static void skeleton_view_coming_soon_draw_callback(Canvas* canvas, void* model)
  * @details    This function allocates the skeleton application resources.
  * @return     SkeletonApp object.
 */
-static SkeletonApp* solana_app_alloc() {
+static SkeletonApp* sample_app_alloc() {
     SkeletonApp* app = (SkeletonApp*)malloc(sizeof(SkeletonApp));
 
     Gui* gui = furi_record_open(RECORD_GUI);
@@ -133,7 +132,7 @@ static SkeletonApp* solana_app_alloc() {
  * @details    This function frees the skeleton application resources.
  * @param      app  The skeleton application object.
 */
-static void solana_app_free(SkeletonApp* app) {
+static void sample_app_free(SkeletonApp* app) {
 #ifdef BACKLIGHT_ON
     notification_message(app->notifications, &sequence_display_backlight_enforce_auto);
 #endif
@@ -156,12 +155,12 @@ static void solana_app_free(SkeletonApp* app) {
  * @param      _p  Input parameter - unused
  * @return     0 - Success
 */
-int32_t main_solana_app(void* _p) {
+int32_t main_sample_app(void* _p) {
     UNUSED(_p);
 
-    SkeletonApp* app = solana_app_alloc();
+    SkeletonApp* app = sample_app_alloc();
     view_dispatcher_run(app->view_dispatcher);
 
-    solana_app_free(app);
+    sample_app_free(app);
     return 0;
 }

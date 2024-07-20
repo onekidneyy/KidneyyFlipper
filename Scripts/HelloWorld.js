@@ -10,13 +10,3 @@ if (name !== undefined) {
 else {
     print("Hello World");
 }
-
-
-
-
-
-
-
-
-
-

@@ -1,15 +1,15 @@
 App(
-    appid="solana_app",
-    name="Solana Wallet App",
+    appid="sample_app",
+    name="Sample App",
     apptype=FlipperAppType.EXTERNAL,
-    entry_point="main_solana_app",
+    entry_point="main_sample_app",
     stack_size=4 * 1024,
     requires=[
         "gui",
     ],
     order=10,
     fap_icon="app.png",
-    fap_category="GPIO",
+    fap_category="Tools",
     fap_icon_assets="assets",
-    fap_description="Skeleton Sample App",
+    fap_description="Sample App",
 )

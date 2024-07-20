@@ -4,7 +4,7 @@ This is my personal github repo of all my projects for the flipperzero. For best
 
 ## Overview Of The Exported Apps / Open Source Appss
 
-* Sample App (Export Coming Soon)
+* Sample App
 
 Sample folder holds a base setup to create apps for the Flipper Zero that has three menus a Config, Play, and About.
 
