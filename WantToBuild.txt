@@ -1,4 +1,4 @@
 Things I want to bild with the FLipper Zero
 -To Do List
--Temerature Converter (working on it rn)
+-Temerature Converter (WIP)
 -Solana Wallet
