@@ -1,4 +1,4 @@
-# To DO List Folder
+# To Do List Folder
 
 To Do list App.
 
