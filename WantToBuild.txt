@@ -1,4 +1,4 @@
 Things I want to bild with the FLipper Zero
--To Do List App
+-To Do List App (WIP)
 -Solana Wallet App (WIP)
 -Temerature Converter Script (WIP)

@@ -14,6 +14,8 @@ Skeleton folder holds a more advanced version of the Sample App this setup has a
 
 * Solana Wallet App (WIP)
 
+* To Do List App (WIP)
+
 ## Overview Of The Scripts
 
 * Hello World

@@ -14,3 +14,5 @@ Place in your "SDCard/apps/Tools" folder.
 Skeleton folder holds a more advanced version of the Sample App this setup has all the menus interconnected for you to see how it could look. Place in your "SDCard/apps/GPIO" folder.
 
 * Solana Wallet App (WIP)
+
+* To DO List App (WIP)
