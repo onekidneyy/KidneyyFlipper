@@ -24,7 +24,7 @@ To download your firmware go to its respected github repo and copy the HTTPS and
 
 To download the toolchain for VS code right click the fbt file and then open it in a integrated terminal and in the terminal type ./fbt vscode_dist
 
-##Building The Firmware
+## Building The Firmware
 
 To build the firmware press crtl,shift,b and pick the "(Debug) Build Firware" on momentum and "(Debug) Build" on flippers firmware.
 
